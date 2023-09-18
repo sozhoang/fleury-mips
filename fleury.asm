@@ -1,5 +1,5 @@
 # Title: Fleury algorithm         Filename: main.asm
-# Author: songutboiz              Date: 12/03/2023
+# Author: sozhoang                Date: 12/03/2023
 # Description: Macro thuat toan Fleury va mot so macro lien quan
 # Input:
 # Output:

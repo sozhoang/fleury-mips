@@ -1,5 +1,5 @@
 # Title: Fleury algorithm         Filename: main.asm
-# Author: songutboiz              Date: 12/03/2023
+# Author: sozhoang                Date: 12/03/2023
 # Description: Chương trinh thuc hien thuat toan Fleury tim duong di Euler
 # Input: Danh sach cac canh
 # Output: Duong di Euler
