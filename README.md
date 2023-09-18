@@ -1,1 +1,1 @@
-Fleury algorithm in MIPS
+# **Fleury algorithm in MIPS**
